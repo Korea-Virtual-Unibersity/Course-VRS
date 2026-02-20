@@ -1,6 +1,6 @@
 # 버츄얼 추천시스템
 
-* 교강사: @theeluwin
+* 교강사: [@theeluwin](https://github.com/theeluwin)
 * 추천 수강 학년: 학부 4학년
 
 ## 차시별 강의
